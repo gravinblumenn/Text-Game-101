@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: Reccommend
+  m_EditorClassIdentifier: 
+  storyText: 'I recommend tending to the moon garden. Based on comparisons made with
+    other nests on nearby moons, your moon garden has a 77% increase in carrot jackers
+    resulting in a 90% decrease in yield.
+
+    Does this recommendation sound acceptable?
+
+    
+
+    
+
+    Press
+    1 - "Those damn Carrot Jackets, prep my suit! and throw in my blaster too."
+
+    Press
+    2 - "Na, I''m going to level up my Runescape Smithing level, I need better armor
+    to PVP."'
+  nextStates:
+  - {fileID: 11400000, guid: 1473a596065c9e44aa621f9833544fbd, type: 2}
+  - {fileID: 11400000, guid: de273bb5a695e56409de5b202c3e8226, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: GetItOver
+  m_EditorClassIdentifier: 
+  storyText: '*Nobody wants to read about that so lets just say this was a degrading
+    experience*
+
+    
+
+    Great job Earthling! I will mark that one down as a
+    point in the Success chart. A balanced breakfast is key to a successful day,
+    What will you have today?
+
+    
+
+    Press 1 - Cereal and Coffee
+
+    Press
+    2 - Sunny side up eggs and bacon'
+  nextStates:
+  - {fileID: 11400000, guid: 7a498e9962f9cc14cb685a2886a1be97, type: 2}
+  - {fileID: 11400000, guid: 70232a8b1a70b1741af519cde598c622, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: WavesCrashing
+  m_EditorClassIdentifier: 
+  storyText: "You have selected, Waves Crashing. \r\n\r\n*Sounds of waves crashing
+    on a shore play as the light in the room gets brighter. The bed begins to tilt
+    upward forcing the Earthling out of bed*\r\n\r\nIf you would please walk down
+    the hall to the bathroom, the hygiene process is ready for execution. how would
+    you like to begin?\r\n\r\nPress 1 - Shower\r\nPress 2 - Shit\r\nPress 3 - Shave"
+  nextStates:
+  - {fileID: 11400000, guid: b7c780a6370cb12459d0ccd9bc71f068, type: 2}
+  - {fileID: 11400000, guid: e0aa191c83107f346ae4e8b17483a71f, type: 2}
+  - {fileID: 11400000, guid: da04f45b099aebf4f88c3175c6c11253, type: 2}

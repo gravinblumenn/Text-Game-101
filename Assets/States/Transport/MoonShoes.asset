@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: MoonShoes
+  m_EditorClassIdentifier: 
+  storyText: "Affirmative, re calibrating bounce on moon shoes as per your requirements,
+    they will be at the door along with rest of your work belongings. Have a successful
+    Day! \r\n\r\n\r\nPress 1 - Go to Work"
+  nextStates:
+  - {fileID: 11400000, guid: dd50f52d5e68b32479d0ae96a797a723, type: 2}

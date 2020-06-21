@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: BirdsChirping
+  m_EditorClassIdentifier: 
+  storyText: "You have selected, Birds Chirping. \r\n\r\n*Birds begin to chirp and
+    sounds of woodland wildlife play as the light in the room gets brighter. Suddenly
+    a piercing eagle cry(and mild electric shock) jolts the Earthling up *\r\n\r\n\r\n\r\nPress
+    1 - Get up like nothing happened because you eat pain for breakfast\r\nPress
+    2 - \"Woah that was so realistic, I could almost feel it.\""
+  nextStates:
+  - {fileID: 11400000, guid: 77172b4a4f5189a478cfa63f74e94c25, type: 2}
+  - {fileID: 11400000, guid: 252d870259b850940b7e917e7a6f001d, type: 2}

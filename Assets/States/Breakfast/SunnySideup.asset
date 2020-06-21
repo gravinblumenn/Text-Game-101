@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: SunnySideup
+  m_EditorClassIdentifier: 
+  storyText: '*As the Earthling enters the kitchen the smell of bacon frying drifts
+    towards him as a plate with 2 sunny side up eggs and a strip of bacon forming
+    a smile waits on the table*
+
+    
+
+    While you enjoy your balanced breakfast,
+    What will you be doing today?
+
+    
+
+    Press 1 - "Going to work"
+
+    Press
+    2 - "I have no plans, What do you recommend E.G.G.S?"'
+  nextStates:
+  - {fileID: 11400000, guid: 67789a1c2c24a9f41a37b3053a0502d0, type: 2}
+  - {fileID: 11400000, guid: 5653d197b84e49e44837166d8e428a1c, type: 2}

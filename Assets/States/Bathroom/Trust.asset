@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: Trust
+  m_EditorClassIdentifier: 
+  storyText: '*The mechanical arm with shaving foam drops down and lathers the Earthlings
+    face with a thick layer of foam, the brush drops down next spreading the foam
+    around while gently massaging his face. Then the arm with blade approaches from
+    the back of the head slowly and with once clean slice it lops the earthlings
+    head off*
+
+    
+
+    Press 1 - Contiue...'
+  nextStates:
+  - {fileID: 11400000, guid: 92a3a1aa0ce32a54bb1fde7b1cf4bb2b, type: 2}

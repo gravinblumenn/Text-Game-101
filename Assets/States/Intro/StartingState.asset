@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecf63d461b27b47b2008e26bde88e0, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Good Morning! I am E.G.G.S. (Extraterrestrial Greetings Guidance Service).\r\nI
+    am an AI designed to help people with their daily life on a new planet. My task
+    right now is to help you get ready for the day ahead of you. How would you like
+    to wake up?\r\n\r\nPress 1 - Waves Crashing\nPress 2 - Birds Chirping\r\nPress
+    3 - I wouldn't yet! Now shh\r"
+  nextStates:
+  - {fileID: 11400000, guid: 77172b4a4f5189a478cfa63f74e94c25, type: 2}
+  - {fileID: 11400000, guid: a717e6fa65245304481b1ffd0905a877, type: 2}
+  - {fileID: 11400000, guid: 292a8e12bf04aef4a9f47248f1fb461b, type: 2}
